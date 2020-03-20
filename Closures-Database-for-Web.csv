@@ -1,0 +1,169 @@
+Count,Hospital,Address,City,State,Zip,RUCA,CBSA,Medicare Payment,# of Beds,Closure Month,Closure Year
+168,Edward W. McCready Memorial Hospital,201 Hall Hwy,Crisfield,MD,21817,10,Metro,PPS,3,March,2020
+167,Mayo Clinic Health System-Springfield,625 Jackson Ave N,Springfield,MN,56087,10,Micro,CAH,24,March,2020
+166,Central Hospital of Bowie,705 E Greenwood Ave,Bowie,TX,76230,7,Neither,MDH,37,February,2020
+165,UPMC Susquehanna Sunbury,350 N 11th St,Sunbury,PA,17801,4,Micro,MDH,70,January,2020
+164,Mountain View Regional Hospital,"310 Third Street, NE",Norton,VA,24273,4,Micro,PPS,20,January,2020
+163,Pinnacle Regional Hospital,17651 Hwy B,Boonville,MO,65233,2.0,Neither,PPS,46,January,2020
+162,Ellwood City Medical Center ,724 Perishing Street,Ellwood City,PA,16117,2,Micro,MDH,52,December,2019
+161,Haskell County Community Hospital,401 NORTHWEST H STREET,Stigler,OK,74462,7,Neither,CAH,25,October,2019
+160,Texas General - Van Zandt Regional Medical Center,707 N WALDRIP ST,Grand Saline,TX,75140,7,Neither,PPS,1,August,2019
+159,Hamlin Memorial Hospital,632 N W SECOND STREET,Hamlin,TX,79520,10.1,Metro,MDH,25,July,2019
+158,Sitka Community Hospital,209 MOLLER DRIVE,Sitka,AK,99835,7,Neither,CAH,12,July,2019
+157,Chillicothe Hospital,303 AVENUE I,Chillicothe,TX,79225,10.2,Neither,CAH,21,July,2019
+156,Regional General Hospital,125 SW 7TH ST,Williston,FL,32696,2,Neither,PPS,20,June,2019
+155,Fayette Regional Health System,1941 VIRGINIA AVE,Connersville,IN,47331,4,Micro,PPS,45,July,2019
+154,Albert Lea - Mayo Clinic Health System,404 WEST FOUNTAIN STREET,Albert Lea,MN,56007,4,Micro,SCH,142,June,2019
+153,Jamestown Regional Medical Center,436 CENTRAL AVENUE WEST,Jamestown,TN,38556,10.2,Neither,SCH,54,June,2019
+152,De Queen Medical Center,1306 WEST COLLIN RAYE DRIVE,De Queen,AR,71832,7,Neither,CAH,25,May,2019
+151,Mercy Hospital El Reno,2115 PARKVIEW DRIVE,El Reno,OK,73036,4.1,Metro,PPS,48,April,2019
+150,Takoma Regional Hospital,1420 TUSCULUM BOULEVARD,Greeneville,TN,37745,4,Micro,MDH,73,April,2019
+149,I-70 Community Hospital,"105 HOSPITAL DRIVE, BUILDING B",Sweet Springs,MO,65351,10,Micro,CAH,15,February,2019
+148,Georgiana Medical Center,515 N MIRANDA AVENUE,Georgiana,AL,36033,10,Neither,MDH,22,March,2019
+147,Oswego Community Hosp,800 BARKER DRIVE,Oswego,KS,67356,10.2,Micro,CAH,12,February,2019
+146,Horton Community Hospital,240 WEST 18TH STREET,Horton,KS,66439,10.3,Neither,CAH,15,March,2019
+145,Cumberland River Hospital,100 OLD JEFFERSON ST,Celina,TN,38551,6,Neither,CAH,25,March,2019
+144,Doctors Hospital at Deer Creek,815 SOUTH 10TH STREET,Leesville,LA,71446,7,Micro,PPS,10,January,2019
+143,Adventist Health Feather River,5974 PENTZ ROAD,Paradise,CA,95969,4.1,Metro,MDH,100,November,2018
+142,Coalinga Regional Medical Center,1191 PHELPS AVENUE,Coalinga,CA,93210,4,Metro,SCH,22,May,2018
+141,Chestatee Regional Hospital,227 MOUNTAIN DRIVE,Dahlonega,GA,30533,2,Neither,PPS,38,July,2018
+140,Mercy Hospital Fort Scott,401 WOODLAND HILLS BLVD,Fort Scott,KS,66701,7,Neither,MDH,43,December,2018
+139,Twin Rivers Regional Medical Center,1301 FIRST ST,Kennett,MO,63857,4,Micro,PPS,100,June,2018
+138,Southeast Health Center of Ripley County,109 PLUM ST,Doniphan,MO,63935,10.2,Neither,MDH,21,October,2018
+137,Moses-Ludington Hospital,1019 WICKER STREET,Ticonderoga,NY,12883,7,Neither,CAH,25,April,2018
+136,Latimer County General Hospital,806 STATE HIGHWAY 2 NORTH,Wilburton,OK,74578,7,Neither,MDH,33,October,2018
+135,Pauls Valley General Hosp,100 VALLEY DRIVE,Pauls Valley,OK,73075,7,Neither,SCH,64,October,2018
+134,Fairfield Memorial Hospital,321 BYPASS PO BOX 620,Winnsboro,SC,29180,2,Metro,CAH,25,December,2018
+133,Sayre Community Hospital,911 HOSPITAL DRIVE,Sayre,OK,73662,7.2,Micro,PPS,22,August,2018
+132,McKenzie Regional Hospital,161 HOSPITAL DRIVE,McKenzie,TN,38201,7,Neither,PPS,29,September,2018
+131,Stamford Memorial Hospital,1601 COLUMBIA STREET,Stamford,TX,79553,7.1,Metro,PPS,22,July,2018
+130,Little River Healthcare Cameron Hospital,806 N CROCKETT,Cameron,TX,76520,7.1,Neither,PPS,34,December,2018
+129,Little River Healthcare Rockdale Hospital,1700 BRAZOS,Rockdale,TX,76567,7.1,Neither,CAH,25,December,2018
+128,Campbellton-Graceville Hospital,5429 COLLEGE DR,Graceville,FL,32440,7.1,Neither,CAH,25,June,2017
+127,Davie Medical Center – Mocksville,223 HOSPITAL STREET,Mocksville,NC,27028,7.1,Metro,PPS,10,March,2017
+126,Our Community Hospital,921 JUNIOR HIGH ROAD,Scotland Neck,NC,27874,10.1,Micro,CAH,20,December,2017
+125,Copper Basin Medical Center,HIGHWAY 68,Copperhill,TN,37317,10.1,Metro,CAH,21,May,2017
+124,Care Regional Medical Ctr,1711 W WHEELER AVENUE,Aransas Pass,TX,78336,4.1,Metro,PPS,63,August,2017
+123,East Texas Medical Center-Trinity,317 PROSPECT DR/PO BOX 3169,Trinity,TX,75862,7.2,Micro,MDH,45,August,2017
+122,Lake Shore Health Care Center – TLC Network,845 ROUTES 5 AND 20,Irving,NY,14081,10.1,Micro,PPS,25,November,2017
+121,Sandhills Regional Med Ctr,1000 WEST HAMLET AVENUE,Hamlet,NC,28345,4,Micro,PPS,64,November,2017
+120,Pioneer Community Hospital of Patrick County,18688 JEB STUART HIGHWAY,Stuart,VA,24171,6,Neither,CAH,25,September,2017
+119,Weimar Medical Center,400 YOUENS DR,Weimar,TX,78962,10.1,Neither,PPS,38,November,2017
+118,North Georgia Medical Center,1362 SOUTH MAIN STREET,Ellijay,GA,30540,7,Neither,PPS,40,June,2016
+117,St. Mary’s Hospital,111  SPRING STREET,Streator,IL,61364,4,Micro,PPS,94,January,2016
+116,Westlake Regional Hospital,901 WESTLAKE DRIVE,Columbia,KY,42728,7,Neither,MDH,49,February,2016
+115,New Horizons Medical Center,330 ROLAND AVENUE,Owenton,KY,40359,10.2,Neither,CAH,25,February,2016
+114,Quitman County Hospital,340 GETWELL DRIVE,Marks,MS,38646,10.1,Neither,CAH,25,September,2016
+113,SoutheastHEALTH Center of Reynolds County,100 HWY 21 N,Ellington,MO,63638,2,Neither,CAH,21,March,2016
+112,Memorial Hospital & Physician Group,319 EAST JOSEPHINE,Frederick,OK,73542,7.1,Neither,SCH,37,March,2016
+111,Epic Medical Center,1 HOSPITAL DRIVE,Eufaula,OK,74432,10.2,Neither,MDH,33,May,2016
+110,Southern Palmetto Hospital,811  REYNOLDS ROAD,Barnwell,SC,29812,7.1,Neither,SCH,30,January,2016
+109,Tennova Healthcare - McNairy Regional,705 E POPLAR AVE,Selmer,TN,38375,7,Neither,MDH,26,May,2016
+108,Gulf Coast Medical Center,10141 US 59 NORTH,Wharton,TX,77488,7.1,Micro,PPS,94,November,2016
+107,Nix Community General Hospital,230 WEST MILLER STREET,Dilley,TX,78017,7,Neither,PPS,18,September,2016
+106,Cochise Regional Hospital,2174 WEST OAK AVENUE,Douglas,AZ,85607,4,Metro,CAH,25,July,2015
+105,Mercy Hosp Independence,800 WEST MYRTLE STREET,Independence,KS,67301,7.2,Micro,PPS,41,October,2015
+104,Parkway Regional Hospital,2000 HOLIDAY LANE,Fulton,KY,42041,7.2,Micro,PPS,48,March,2015
+103,Parkview Adventist Medical Center,329 MAIN ST,Brunswick,ME,4011,4.1,Metro,PPS,55,June,2015
+102,Novant Health Franklin Medical Center,100 HOSPITAL DR BOX 609,Louisburg,NC,27549,7,Metro,PPS,70,October,2015
+101,Southern Maine Health Care - Sanford Medical Center,25 JUNE STREET,Sanford,ME,4073,4.1,Metro,PPS,46,October,2015
+100,Albany Area Hospital,300 THIRD AVENUE,Albany,MN,56307,2,Metro,CAH,17,December,2015
+99,Kilmichael Hospital,301 LAMAR AVENUE,Kilmichael,MS,39747,8,Neither,MDH,19,January,2015
+98,Merit Health Natchez-Community Campus,129 JEFFERSON DAVIS BLVD BOX 1203,Natchez,MS,39120,4,Micro,PPS,101,November,2015
+97,Pioneer Community Hospital of Newton,"9421 EAST SIDE DRIVE EXTENSION, POB 299",Newton,MS,39345,7,Neither,CAH,21,December,2015
+96,Parkland Health Center-Weber Road,1212 WEBER RD,Farmington,MO,63640,4.1,Micro,RRC,98,August,2015
+95,Nye Regional Medical Ctr,825 ERIE MAIN ST (AKA SOUTH MAIN),Tonopah,NV,89049,5,Micro,SCH,10,August,2015
+94,Yadkin Valley Community Hospital,624 WEST MAIN ST,Yadkinville,NC,27055,2,Metro,CAH,15,May,2015
+93,Marlboro Park Hospital,1138 CHERAW HIGHWAY,Bennetsville,SC,29512,4,Micro,PPS,94,April,2015
+92,United Regional Medical Center,481 INTERSTATE DRIVE,Manchester,TN,37355,4,Micro,PPS,53,July,2015
+91,Parkridge West Hospital,1000 HIGHWAY 28,Jasper,TN,37347,7.1,Metro,PPS,50,April,2015
+90,Hunt Regional Community Hospital of Commerce,2900 STERLING HART DRIVE,Commerce,TX,75428,7.2,Metro,CAH,24,May,2015
+89,Lower Oconee Community Hospital,111 N THIRD STREET,Glenwood,GA,30428,10.2,Neither,CAH,25,June,2014
+88,Nicholas County Hosp,2325 CONCRETE ROAD,Carlisle,KY,40311,10.2,Neither,CAH,16,May,2014
+87,North Adams Regional Hospital,71 HOSPITAL AVENUE,North Adams,MA,1247,4.1,Metro,MDH ,98,March,2014
+86,Sac-Osage Hospital,700 GIESLER DRIVE,Osceola,MO,64776,9,Neither,SCH,47,September,2014
+85,Tilden Community Hosp,"P O BOX 340, 308 WEST 2ND",Tilden,NE,68781,10.2,Neither,CAH,20,June,2014
+84,Vidant Pungo Hospital,210 EAST WATER ST,Belhaven,NC,27810,10.2,Micro,CAH,25,June,2014
+83,Doctors Hospital of Nelsonville,1950 MOUNT ST MARYS DRIVE,Nelsonville,OH,45764,7.2,Micro,CAH,25,October,2014
+82,Mid-Valley Hospital,1400 MAIN STREET,Peckville,PA,18452,1,Metro,CAH,25,June,2014
+81,Gibson General Hospital,200 HOSPITAL DR,Trenton,TN,38382,7,Neither,MDH,41,January,2014
+80,Humboldt General Hosp,3525 CHERE CAROL RD,Humboldt,TN,38343,7.1,Neither,PPS,42,January,2014
+79,Haywood Park Community Hospital,2545 N WASHINGTON AVE,Brownsville,TN,38012,7.1,Neither,MDH,36,July,2014
+78,East Texas Medical Center Clarksville,3000 W MAIN ST,Clarksville,TX,75426,7.2,Neither,MDH,43,December,2014
+77,Lake Whitney Med Ctr,200 N SAN JACINTO STREET,Whitney,TX,76692,10.1,Neither,MDH,49,March,2014
+76,East Texas Medical Center Mount Vernon,500 S STATE HWY 37,Mt Vernon,TX,75457,9,Neither,MDH,49,December,2014
+75,East Texas Medical Center Gilmer,712 NORTH WOOD,Gilmer,TX,75644,7.1,Metro,PPS,37,October,2014
+74,Good Shepherd Med Ctr ,404 NORTH KAUFMAN STREET,Linden,TX,75563,10.1,Neither,CAH,25,April,2014
+73,Elba General Hospital,987 DRAYTON STREET,Elba,AL,36323,10.2,Micro,MDH,20,February,2013
+72,Wise Regional Health System-Bridgeport,24273 FIFTH AVENUE,Bridgeport,TX,36442,7,Metro,PPS,36,December,2013
+71,Corcoran District Hosp,1310 HANNA AVE,Corcoran,CA,93212,4.1,Metro,PPS,32,March,2013
+70,Calhoun Mem Hospital,"55 J E JENNINGS AVE, PO DRAWER R",Arlington,GA,39813,2,Neither,CAH,25,March,2013
+69,Charlton Mem Hospital,2449 THIRD STREET,Folkston,GA,31537,2,Neither,CAH,15,August,2013
+68,Stewart-Webster Hosp,580 ALSTON STREET,Richland,GA,31825,10.1,Neither,CAH,25,March,2013
+67,St. Andrews Hospital,35 MILES STREET,Boothbay Harbor,ME,4543,10,Neither,CAH,25,October,2013
+66,Patient’s Choice Medical Center of Humphreys Co,500 CCC ROAD,Belzoni,MS,39038,7.2,Neither,CAH,25,August,2013
+65,Blowing Rock Hospital,418 CHESTNUT DRIVE,Blowing Rock,NC,28605,10.1,Micro,CAH,25,October,2013
+64,Starr Regional Medical Ctr,886 HIGHWAY 411 NORTH,Etowah,TN,37331,7.2,Micro,MDH,60,December,2013
+63,Renaissance Hospital Terrell,1551 HWY 34 S,Terrell,TX,75160,4.1,Metro,PPS,106,February,2013
+62,Shelby Regional Medical Center,602 HURST STREET,Center,TX,75935,7.2,Neither,PPS,54,July,2013
+61,Lee Regional Medical Center,127 HEALTH CARE DRIVE,Pennington Gap,VA,24277,10.1,Neither,MDH,70,October,2013
+60,Florala Mem Hospital,1901 DOCTORS HOSPITAL DRIVE,Florala,AL,76426,3,Neither,PPS,22,December,2013
+59,Chilton Medical Center,1010 LAY DAM ROAD,Clanton,AL,35045,7.1,Metro,PPS,27,November,2012
+58,Riverview Regional Medical Center South,130 LEBANON HIGHWAY,Carthage,TN,37030,5,Metro,CAH,25,August,2012
+57,Florence Community Healthcare,450 WEST ADAMSVILLE ROAD,Florence,AZ,85132,4.1,Metro,CAH,25,June,2012
+56,Hart County Hospital,"138 W GIBSON STREET,  P O BOX 280",Hartwell,GA,30643,7,Neither,MDH,82,May,2012
+55,Cheboygan Memorial Hospital,748 S MAIN,Cheboygan,MI,49721,7,Neither,CAH,25,April,2012
+54,Physicians Choice Hospital-Fremont,2390 ENTERPRISE DRIVE,Fremont,OH,43420,4,Micro,PPS,8,March,2012
+53,Muskogee Community Hospital,2900 NORTH MAIN STREET,Muskogee,OK,74402,4,Micro,PPS,45,July,2012
+52,Saint Catherine Medical Center Fountain Springs,101 BROAD STREET,Ashland,PA,17921,7.2,Micro,PPS,53,April,2012
+51,Bamberg County Memorial Hospital,509 NORTH STREET,Bamberg,SC,29003,7.2,Neither,PPS,59,April,2012
+50,SW Alabama Med Ctr,33700 HIGHWAY 43,Thomasville,AL,36784,7.1,Neither,PPS,27,August,2011
+49,Randolph Medical Ctr,59928 HIGHWAY 22   P O BOX 670,Roanoke,AL,36274,7.2,Neither,CAH,12,March,2011
+48,Hualapai Mountain Medical Center,3801 SANTA ROSA DRIVE,Kingman,AZ,86401,4,Metro,PPS,70,September,2011
+47,Central Kansas Med Ctr,3515 BROADWAY ST,Great Bend,KS,67530,4,Micro,SCH,41,April,2011
+46,Franciscan Skemp Medical Center,464 S ST JOSEPH AVE,Arcadia,WI,54612,7,Neither,CAH,25,March,2011
+45,Kingsburg Medical Center,1200 SMITH ST,Kingsburg,CA,93631,4.1,Metro,PPS,15,May,2010
+44,Lakeside Medical Center,129 6TH AVE SE,Pine City,MN,55063,7.1,Neither,PPS,10,December,2010
+43,Holy Infant Hospital,"512 MAIN STREET, BOX 158",Hoven,SD,57450,10,Neither,SCH,22,October,2010
+42,Woodland Medical Ctr,1910 CHEROKEE AVENUE SW,Cullman,AL,35055,4,Micro,MDH,50,July,2009
+41,Pike County Hospital,315 E 13TH ST,Murfreesboro,AR,71958,10,Neither,MDH,32,November,2009
+40,N M  Holderman Memorial Hospital,260 CALIFORNIA DR,Yountville,CA,94599,7.1,Metro,PPS,20,August,2009
+39,Jenkins Community Hospital,9480 HIGHWAY 805,Jenkins,KY,41537,5,Neither,CAH,25,May,2009
+38,Doctors Hospital Of Opelousas,3983 I 49 SOUTH SERVICE ROAD,Opelousas,LA,70570,2,Micro,PPS,117,April,2009
+37,Wm B Kessler Memorial Hospital,600 SO WHITE HORSE PIKE,Hammonton,NJ,8037,4.1,Metro,PPS,83,March,2009
+36,Amsterdam Memorial Hospital,4988 STATE HIGHWAY 30,Amsterdam,NY,12010,2,Micro,PPS,24,June,2009
+35,Albert Lindley Lee Memorial Hospital,510 SOUTH FOURTH STREET,Fulton,NY,13069,4.1,Metro,PPS,67,April,2009
+34,Crawley Memorial Hospital,315 W COLLEGE AVE,Boiling Springs,NC,28017,5,Micro,MDH,60,December,2009
+33,Richardton Health Center,212 3RD AVE WEST,Richardton,ND,58652,10,Micro,CAH,25,April,2009
+32,Indian Valley Hospital,184 HOT SPRINGS ROAD,Greenville,CA,95947,8,Neither,SCH,26,April,2008
+31,Trinity Community Hospital,506 NW 4TH ST,Jasper,FL,32052,7.1,Neither,PPS,42,August,2008
+30,Taylor Telfair Regional Hospital,HIGHWAY 341,McRae,GA,31055,7,Neither,CAH,15,April,2008
+29,Dickerson Memorial Hospital,1001 DICKERSON DRIVE,Jasper,TX,75951,7,Neither,PPS,24,July,2008
+28,Deer Park Hospital,1015 EAST D STREET,Deer Park,WA,99006,2,Metro,CAH,25,March,2008
+27,Richwood Area Community Hospital,RIVERSIDE ADDITION,Richwood,WV,26261,8.1,Neither,CAH,25,June,2008
+26,Ft Yuma PHS Indian Hosp,PO BOX 1368,Yuma,AZ,85366,1,Metro,CAH,15,June,2007
+25,Tuolumne General Hosp,101 E HOSPITAL ROAD,Sonora,CA,95370,4,Micro,PPS,80,June,2007
+24,St Joseph's Hospital Of Huntingburg,1900 MEDICAL ARTS DRIVE,Huntingburg,IN,47542,5,Micro,CAH,25,January,2007
+23,Divine Providence Health Center,"312 E GEORGE ST, BOX 136",Ivanhoe,MN,56142,10,Neither,CAH,18,March,2007
+22,Owyhee Community Health Facility,PO BOX 130,Owyhee,NV,89832,10,Micro,CAH,15,November,2007
+21,Frye Regional Medical Center Alexander Campus,326 THIRD STREET SW,Taylorsville,NC,28681,2,Metro,CAH,23,February,2007
+20,Pawnee Municipal Hospital,1212 FOURTH STREET,Pawnee,OK,74058,10,Metro,PPS,25,August,2007
+19,Five Counties Hospital - Critical Access Hospital,405 SIXTH AVENUE WEST,Lemmon,SD,57638,10,Neither,CAH,4,October,2007
+18,St Lukes Hospital,1333 SOUTHVIEW DRIVE POB 1190,Bluefield,WV,24701,4,Micro,MDH,79,May,2007
+17,Chowchilla District Mem Hospital,1104 VENTURA AVENUE,Chowchilla,CA,93610,4,Metro,PPS,24,June,2006
+16,Dos Palos Memorial Hospital,2118 MARGUERITE ST,Dos Palos,CA,93620,7.2,Metro,PPS,17,June,2006
+15,Cedar Vale Community Hospital,501 CEDAR ST P O BOX 398,Cedar Vale,KS,67024,10,Neither,CAH,25,August,2006
+14,Leelanau Memorial Health Center,215 S HIGH ST,Northport,MI,49670,10,Micro,CAH,23,September,2006
+13,Good Hope Hospital,410 DENIM DR  PO BOX 668,Erwin,NC,28339,4.3,Micro,PPS,43,April,2006
+12,Mission Family Health Center (Yancey Community Medical Ctr),320 PENSACOLA ROAD,Burnsville,NC,28714,2,Neither,CAH,6,September,2006
+11,Philipsburg Area Hospital,210 LOCH LOMOND ROAD,Philipsburg,PA,16866,2,Metro,CAH,25,April,2006
+10,Guyan Valley Hospital,396 DINGESS ST,Logan,WV,25601,2,Micro,CAH,8,December,2006
+9,Newport Hosp And Clinic,2000 MCLAIN STREEET,Newport,AR,72112,7,Neither,PPS,86,October,2005
+8,Gulf Pines Hospital,102 20TH ST,Port Saint Joe,FL,32456,7.1,Metro,PPS,45,March,2005
+7,Gadsden Community Hospital,23186 BLUE STAR HWY,Quincy,FL,32351,2, Metro,CAH,25,November,2005
+6,Cornerstone Healthcare Of Illinois,400 PLUM STREET,Carmi,IL,62821,7,Neither,CAH,25,December,2005
+5,Minnewaska District Hosp,610 W 6TH ST PO BOX 160,Starbuck,MN,56381,10,Neither,CAH,19,June,2005
+4,Kings Daughters Hospital-Greenville,300 SOUTH WASHINGTON AVENUE,Greenville,MS,38701,4,Micro,PPS,99,March,2005
+3,The Hospital,43 PEARL STREET WEST,Sidney,NY,13838,7.2,Neither,MDH,45,August,2005
+2,Fayette Memorial Hospital,543 N JACKSON,La Grange,TX,78945,7,Neither,PPS,24,July,2005
+1,Deleon Hospital,407 S TEXAS,De Leon,TX,76444,10,Neither,CAH,14,July,2005
